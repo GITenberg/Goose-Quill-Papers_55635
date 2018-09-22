@@ -1,0 +1,34 @@
+_repo: Goose-Quill-Papers_55635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L. I.
+    - Guiney, L.I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2017-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- GITenberg
+tableOfContents: On the good repute of the apple -- A hand -- An open letter to the
+  moon -- Brentford pulpit -- Notes made by Troilus Gently -- On teaching one's grandmother
+  how to suck eggs -- Old haunts -- Free thoughts on books -- A November festival
+  -- Vagabondiana -- Mathematics -- A child in camp -- On graveyards -- Some garden-folk
+  -- Hospitalities -- The two voices -- Sweetheart -- On the beauty of idleness --
+  De mosquitone -- On the garret.
+title: Goose-Quill Papers
+url: http://www.gutenberg.org/ebooks/55635
